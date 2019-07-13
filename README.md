@@ -1,2 +1,2 @@
-# PruebaPlazti
+# PruebaPlatzi
 Java 8  
