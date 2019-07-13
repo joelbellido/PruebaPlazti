@@ -4,8 +4,17 @@ everth
 :wq
 pintado bellido 
 
+brasil
+
+
 wjjkw
 
 se
+help   
+
+
+
+help
+help
 se modifocvo el texto 2 
 Esto es un archivo de texto 2 dela rama develop
